@@ -6,7 +6,8 @@ public class school {
         System.out.println("merhaba 1");
 
         System.out.println("merhaba hüzün");
-
         System.out.println("second task was done.");
+
+        System.out.println("hüzünlü kalpte Allah vardır");
     }
 }
