@@ -6,5 +6,7 @@ public class Student {
         System.out.println("innallahe meassabirin");
 
         System.out.println("vicdan azabı yaşanmıyor");
+
+        System.out.println("kırdığı kalbin parçaları, parçalar insanı");
     }
 }
